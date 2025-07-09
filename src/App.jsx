@@ -23,7 +23,8 @@ function App() {
             perkembangan teknologi.
           </p>
           <div className="flex items-center sm:gap-4 gap-2">
-            <a href="#" className="bg-violet-700 p-4 rounded-2xl hover:bg-violet-600">
+            <a href="https://drive.google.com/drive/folders/1AK7Sw3wh8KLvgexzWcePiDoRJrC7IQIK?usp=drive_link" 
+            className="bg-violet-700 p-4 rounded-2xl hover:bg-violet-600">
               Download CV <i className="ri-download-line ri-lg"></i></a>
             <a href="#proyek" className="bg-zinc-700 p-4 rounded-2xl hover:bg-zinc-600">
               Lihat Proyek <i className="ri-arrow-down-line ri-lg"></i></a>
@@ -52,7 +53,7 @@ function App() {
             <div className="flex items-center gap-6">
               <div>
                 <h1 className="text-4xl mb-1">
-                  5<span className="text-violet-500">+</span>
+                  4<span className="text-violet-500">+</span>
                 </h1>
                 <p>Proyek Selesai</p>
               </div>
@@ -111,7 +112,7 @@ function App() {
                   </div>
                   <div className="mt-8 text-center">
                     <a href="#" className="bg-violet-700 p-3 rounded-lg block border border-zinc-600 
-                    hover:bg-violet-600">Lihat Website (Local)</a>
+                    hover:bg-violet-600">Local</a>
                   </div>
                 </div>
               </div>

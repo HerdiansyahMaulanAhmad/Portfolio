@@ -16,8 +16,8 @@ import Tools7 from "/assets/tools/js.png";
 import Tools8 from "/assets/tools/php.png";
 import Tools9 from "/assets/tools/tailwind.png";
 import Tools10 from "/assets/tools/reactjs.png";
-// import Tools11 from "/assets/tools/laravel.png";
-// import Tools12 from "/assets/tools/canva.png";
+import Tools11 from "/assets/tools/laravel.png";
+import Tools12 from "/assets/tools/canva.png";
 
 export const listTools = [
   {
@@ -90,20 +90,20 @@ export const listTools = [
     ket: "Framework",
     dad: "800",
   },
-  // {
-  //   id: 11,
-  //   gambar: Tools11,
-  //   nama: "Laravel",
-  //   ket: "Framework",
-  //   dad: "900",
-  // },
-  // {
-  //   id: 12,
-  //   gambar: Tools12,
-  //   nama: "Canva",
-  //   ket: "Design",
-  //   dad: "1000",
-  // },
+  {
+    id: 11,
+    gambar: Tools11,
+    nama: "Laravel",
+    ket: "Framework",
+    dad: "900",
+  },
+  {
+    id: 12,
+    gambar: Tools12,
+    nama: "Canva",
+    ket: "Design",
+    dad: "1000",
+  },
 ];
 
 import Proyek1 from "/assets/proyek/projek1.jpg";
