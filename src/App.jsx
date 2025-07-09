@@ -18,7 +18,7 @@ function App() {
             pemrograman seperti HTML, CSS, JavaScript dan PHP serta Framework Laravel dan Boostrap.
           </p>
           <div className="flex items-center sm:gap-4 gap-2">
-            <a href="#" className="bg-red-700 p-4 rounded-2xl hover:bg-red-600">
+            <a href="#" className="bg-violet-700 p-4 rounded-2xl hover:bg-violet-600">
               Download CV <i className="ri-download-line ri-lg"></i></a>
             <a href="#proyek" className="bg-zinc-700 p-4 rounded-2xl hover:bg-zinc-600">
               Lihat Proyek <i className="ri-arrow-down-line ri-lg"></i></a>
@@ -46,13 +46,13 @@ function App() {
             <div className="flex items-center gap-6">
               <div>
                 <h1 className="text-4xl mb-1">
-                  5<span className="text-red-500">+</span>
+                  5<span className="text-violet-500">+</span>
                 </h1>
                 <p>Proyek Selesai</p>
               </div>
               <div>
                 <h1 className="text-4xl mb-1">
-                  2<span className="text-red-500">+</span>
+                  2<span className="text-violet-500">+</span>
                 </h1>
                 <p>Tahun Pembelajaran</p>
               </div>
@@ -104,8 +104,8 @@ function App() {
                     ))}
                   </div>
                   <div className="mt-8 text-center">
-                    <a href="#" className="bg-red-700 p-3 rounded-lg block border border-zinc-600 
-                    hover:bg-red-600">Lihat Website</a>
+                    <a href="#" className="bg-violet-700 p-3 rounded-lg block border border-zinc-600 
+                    hover:bg-violet-600">Lihat Website</a>
                   </div>
                 </div>
               </div>
@@ -140,8 +140,8 @@ function App() {
               className="border border-zinc-500 p-2 rounded-md" required ></textarea>
             </div>
             <div className="text-center">
-              <button type="submit" className="bg-red-700 p-3 rounded-lg w-full cursor-pointer border
-              border-zinc-600 hover:bg-red-600">Kirim Pesan</button>
+              <button type="submit" className="bg-violet-700 p-3 rounded-lg w-full cursor-pointer border
+              border-zinc-600 hover:bg-violet-600">Kirim Pesan</button>
             </div>
           </div>
         </form>

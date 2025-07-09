@@ -1,4 +1,4 @@
-import HeroImage from "/assets/formal-img.jpg";
+import HeroImage from "/assets/formal-img.png";
 
 const Image = {
   HeroImage,
@@ -8,8 +8,9 @@ export default Image;
 
 import Tools1 from "/assets/tools/vscode.png";
 import Tools2 from "/assets/tools/github.png";
-import Tools3 from "/assets/tools/nextjs.png";
-import Tools4 from "/assets/tools/tailwind.png";
+import Tools3 from "/assets/tools/laragon.png";
+import Tools4 from "/assets/tools/html.png";
+// import Tools4 from "/assets/tools/tailwind.png";
 import Tools5 from "/assets/tools/bootstrap.png";
 import Tools6 from "/assets/tools/js.png";
 import Tools7 from "/assets/tools/nodejs.png";
@@ -37,22 +38,22 @@ export const listTools = [
   {
     id: 3,
     gambar: Tools3,
-    nama: "Next JS",
-    ket: "Framework",
+    nama: "Laragon",
+    ket: "Server",
     dad: "300",
   },
   {
     id: 4,
     gambar: Tools4,
-    nama: "Tailwind CSS",
-    ket: "Framework",
+    nama: "HTML",
+    ket: "Markup Language",
     dad: "400",
   },
   {
     id: 5,
     gambar: Tools5,
-    nama: "Bootstrap",
-    ket: "Framework",
+    nama: "CSS",
+    ket: "Language",
     dad: "500",
   },
   {
@@ -63,11 +64,11 @@ export const listTools = [
     dad: "600",
   },
   {
-    id: 7,
-    gambar: Tools7,
-    nama: "Node JS",
-    ket: "Javascript Runtime",
-    dad: "700",
+    id: 4,
+    gambar: Tools4,
+    nama: "Tailwind CSS",
+    ket: "Framework",
+    dad: "400",
   },
   {
     id: 8,
