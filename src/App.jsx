@@ -8,14 +8,19 @@ function App() {
         <div className="animate__animated animate__fadeInUp animate__delay-3s">
           <div className="flex items-center gap-3 mb-6 bg-zinc-800 w-fit p-4 rounded-2xl">
             <img src={DataImage.HeroImage} alt="Hero Image" className="w-10 rounded-md" loading="lazy" />
-            <q>Ketika dunia berkata: "menyerahlah kau tak akan sanggup". 
-            but Allah berbisik: "cobalah sekali lagi kali ini bersamaku". 🫡</q>
+            <q>Tidak ada bug yang tak bisa diperbaiki—begitu pula dengan tantangan hidup, semua bisa diatasi 
+              dengan ketekunan. 🫡</q>
           </div>
           <h1 className="text-5xl/tight font-bold mb-6 ">Hi, Saya Herdiansyah Maulan Ahmad</h1>
           <p className="text-base/loose mb-6 opacity-50">
-            Mahasiswa S1 Teknologi Informasi dari Universitas Muhammadiyah Semarang dengan pengalaman profesional 
-            pada bidang pengembangan Web dan Dashboard. Memiliki kemampuan dalaın menggunakan berbagai bahasa 
-            pemrograman seperti HTML, CSS, JavaScript dan PHP serta Framework Laravel dan Boostrap.
+            Saya memiliki ketertarikan di bidang pemrograman, khususnya dalam 
+            pengembangan website. Ketertarikan ini tumbuh dari rasa penasaran saya terhadap bagaimana sebuah 
+            situs dapat bekerja secara dinamis dan responsif. Seiring waktu, saya terus mengasah kemampuan 
+            dalam berbagai teknologi web, mulai dari HTML, CSS, JavaScript, hingga framework modern seperti 
+            Laravel dan React. Bagi saya, dunia web bukan sekadar kode, tetapi media kreatif untuk menciptakan 
+            solusi digital yang fungsional dan bermanfaat. Saya senang mengeksplorasi tantangan teknis dan 
+            terus belajar agar dapat berkembang menjadi web programmer yang profesional dan adaptif terhadap 
+            perkembangan teknologi.
           </p>
           <div className="flex items-center sm:gap-4 gap-2">
             <a href="#" className="bg-violet-700 p-4 rounded-2xl hover:bg-violet-600">
@@ -34,7 +39,8 @@ function App() {
         data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
           <img src={DataImage.HeroImage} alt="Image" className="w-12 rounded-md mb-10 sm:hidden" loading="lazy" />
           <p className="text-base/loose mb-10">
-            Mahasiswa S1 Teknologi Informasi dari Universitas Muhammadiyah Semarang dengan pengalaman 
+            HI, perkenalkan saya Herdiansyah Maulan Ahmad yang sedang menempuh pendidikan S1 Teknologi 
+            Informasi dari Universitas Muhammadiyah Semarang dengan pengalaman 
             profesional pada bidang pengembangan Web dan Dashboard. Memiliki kemampuan dalaın menggunakan 
             berbagai bahasa pemrograman seperti HTML, CSS, JavaScript dan PHP serta Framework Laravel dan 
             Boostrap. Mampu menggunakan API untuk mendapatkan data real-time dan data historis pada grafik 
@@ -63,9 +69,9 @@ function App() {
         <div className="tools mt-32 ">
           <h1 className="text-4xl/snug font-bold mb-4" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true"
           >Tools yang dipakai</h1>
-          <p className="xl:w-2/5 lg:w-2/4 md:w-2/2 sm:w-2/2 w-full text-base/loose opacity-50" 
+          <p className=" md:w-2/2 sm:w-2/2 w-full text-base/loose opacity-50" 
           data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300" data-aos-once="true">Berikut ini 
-          beberapa tools yang biasa saya pakai untuk pembuatan website ataupun aplikasi</p>
+          beberapa tools yang biasa saya pakai untuk pembuatan website:</p>
           <div className="tools-box mt-14 grid lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-4">
 
           {listTools.map((tool) => (
