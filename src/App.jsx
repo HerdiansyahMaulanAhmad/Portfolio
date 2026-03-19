@@ -46,7 +46,8 @@ function App() {
             berbagai bahasa pemrograman seperti HTML, CSS, JavaScript dan PHP serta Framework Laravel dan 
             Boostrap. Mampu menggunakan API untuk mendapatkan data real-time dan data historis pada grafik 
             untuk tampilan. Terlebih lagi, memiliki kemampuan untuk membuat dan mengelola basis data dengan 
-            menggunakan MySQL. Saya hanya akan commit untuk menambah kontribusi di Github
+            menggunakan MySQL. Saya hanya akan commit untuk menambah kontribusi di Github. Saya akan sedikit bercerita mengenai diri Saya
+            pada saat ini, saya sekarang memasuki kuliah semester 6.
           </p>
           <div className="flex items-center justify-between">
             <img src={DataImage.HeroImage} alt="Image" className="w-12 rounded-md sm:block hidden" loading="lazy" />
