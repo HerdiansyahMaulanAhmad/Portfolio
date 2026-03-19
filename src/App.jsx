@@ -47,7 +47,10 @@ function App() {
             Boostrap. Mampu menggunakan API untuk mendapatkan data real-time dan data historis pada grafik 
             untuk tampilan. Terlebih lagi, memiliki kemampuan untuk membuat dan mengelola basis data dengan 
             menggunakan MySQL. Saya hanya akan commit untuk menambah kontribusi di Github. Saya akan sedikit bercerita mengenai diri Saya
-            pada saat ini, saya sekarang memasuki kuliah semester 6.
+            pada saat ini, saya sekarang memasuki kuliah semester 6. Saya masih memiliki keraguan untuk bahan skripsi saya, dikarenakan
+            Judul dan Jenis yang saya ambil pada mata kuliah Metode Penelitian itu sangat sulit jika dibayangkan, yaitu DevOps. Saya juga masih ragu
+            dalam menentukan jenis karir saya di bidang IT, sebenarnya saya memiliki minat di bidang programmer, tetapi pada saat ini profesi tsb sudah
+            banyak digantikan oleh AI.
           </p>
           <div className="flex items-center justify-between">
             <img src={DataImage.HeroImage} alt="Image" className="w-12 rounded-md sm:block hidden" loading="lazy" />
