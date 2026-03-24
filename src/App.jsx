@@ -51,7 +51,7 @@ function App() {
             Judul dan Jenis yang saya ambil pada mata kuliah Metode Penelitian itu sangat sulit jika dibayangkan, yaitu DevOps. Saya juga masih ragu
             dalam menentukan jenis karir saya di bidang IT, sebenarnya saya memiliki minat di bidang programmer, tetapi pada saat ini profesi tsb sudah
             banyak digantikan oleh AI. Kemarin saya lupa untuk commit. saya hari ini akan pergi ke ke kudus. hari ini badanku capeee. hari ini saya sangat tidak enak badan.
-            saya ingin tidur lebih awal. kenapa kok ngga mau commit ya
+            saya ingin tidur lebih awal. kenapa kok ngga mau commit ya, ternyata harus git global dulu.
           </p>
           <div className="flex items-center justify-between">
             <img src={DataImage.HeroImage} alt="Image" className="w-12 rounded-md sm:block hidden" loading="lazy" />
