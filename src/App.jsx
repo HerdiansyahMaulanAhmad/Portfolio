@@ -20,7 +20,8 @@ function App() {
             Laravel dan React. Bagi saya, dunia web bukan sekadar kode, tetapi media kreatif untuk menciptakan 
             solusi digital yang fungsional dan bermanfaat. Saya senang mengeksplorasi tantangan teknis dan 
             terus belajar agar dapat berkembang menjadi web programmer yang profesional dan adaptif terhadap 
-            perkembangan teknologi. Saya hanya ingin mencoba untuk memperbanyak aktivitas github saya
+            perkembangan teknologi. Saya hanya ingin mencoba untuk memperbanyak aktivitas github saya, karena saya sangat sibuk.
+            
           </p>
           <div className="flex items-center sm:gap-4 gap-2">
             <a href="https://drive.google.com/drive/folders/1AK7Sw3wh8KLvgexzWcePiDoRJrC7IQIK?usp=drive_link" 
