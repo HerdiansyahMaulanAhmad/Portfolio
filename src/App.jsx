@@ -21,7 +21,7 @@ function App() {
             solusi digital yang fungsional dan bermanfaat. Saya senang mengeksplorasi tantangan teknis dan 
             terus belajar agar dapat berkembang menjadi web programmer yang profesional dan adaptif terhadap 
             perkembangan teknologi. Saya hanya ingin mencoba untuk memperbanyak aktivitas github saya, karena saya sangat sibuk.
-            
+            halo
           </p>
           <div className="flex items-center sm:gap-4 gap-2">
             <a href="https://drive.google.com/drive/folders/1AK7Sw3wh8KLvgexzWcePiDoRJrC7IQIK?usp=drive_link" 
